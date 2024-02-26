@@ -1,1 +1,93 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Roboto+Slab:wght@500&family=Source+Sans+Pro:wght@200;400;600&display=swap');
+body{
+    font-family: Source Sans Pro;
+    background-color: #eee;
+    width: 100%;
+   
+    
+
+}
+#htimes{
+  font-family: Abril Fatface; 
+  text-align: center;
+  margin-top: 10px;
+}
+.article{
+    font-family: Roboto Slab;
+    display: block;
+    margin: auto;
+    text-align: center;
+    color:  #554343;
+    background-color: #bbbbbb;
+}
+h5{
+    color: red;
+    
+}
+.turning{
+    margin-left: 38.5%;
+    margin-right: 38.5%;
+    
+
+}
+#maurice{
+    
+
+padding-right: 15.5%;
+
+}
+.newspaper-container{
+   
+   
+}
+.tvs{
+    
+    float: left;
+    margin-left: 36%;
+   
+}
+.caffeine{
+    position: absolute;
+   top: 0;
+   left: 52%;
+   margin-right: 20%;
+   
+}
+.more-articles{
+    position: relative;
+}
+.br{
+    
+border: 1px solid; 
+
+border-radius: 3%;
+}
+.lemon{
+ width: 300px   
+}
+.jitters{
+    width: 300px;
+}
+.bullets{
+    list-style: none;
+   text-align: center;
+   border: 1px solid;
+    
+    
+
+}
+a{
+    color: #777;
+    text-decoration: none
+ 
+}
+.horiz{
+   display: inline; 
+   margin-right: 10px;
+   
+}
+.date{
+   margin-bottom: 0 ;
+    margin-left: 37%;
+
+}
